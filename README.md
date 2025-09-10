@@ -1,2 +1,2 @@
-# Calculadora-moderna
-Calculadora moderna com HTML5, CSS3 e Javascript
+# Calculadora Moderna
+Calculadora moderna com atimizada com suporte para teclado
